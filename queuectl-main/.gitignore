@@ -3,5 +3,4 @@ logs/
 *.log
 .DS_Store
 .env
-setup-env.bat
 
